@@ -1,11 +1,12 @@
 {
   "files": {
+    "config.json": {"overwrite": false, "hash": ["6a0c287f7d64101944df3d8ecf713b946116cda17229bd80da3df1bb68193fff"]},
     "Droplog.js": "44907bfc20407171edf4315596f996bd52e127faac2440f3bb05e47d72a99af9",
     "index.js": "d4bc468f9afcb63d5318fc3f082068e0cad6b5a0d8845bad3679f0a08095caa7",
     "Loot.js": "6d30529f1c547757161ebe5c19825c80cfefb04f0147d41eecaf6d0e0aeff257",
-    "module.json": "f9c3a54e411436e04c0dfa14f2aeaf41afb3dc7a0786d9205ace3bc7c950cebb",
-    "README.md": "48f883ad90146aef308c45be447ea5ae852675a560772a4313568adbcb1918c9",
-    },
+    "module.json": "794f15a4dcb76de06446fcd980f8002a8a3466db587db6bab7ddd87fd0a32ac6",
+    "README.md": "48f883ad90146aef308c45be447ea5ae852675a560772a4313568adbcb1918c9"
+  },
   "defs": {
     "S_LOGIN": 10,
     "C_PLAYER_LOCATION": 5,
