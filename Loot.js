@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Command = require("command");
+
 const path = require("path");
 const fs = require("fs");
 const DEFAULT_CONFIG = {
@@ -23,7 +23,7 @@ class Loot {
     constructor(dispatch) {
         this.dispatch = dispatch;
         this.records = [];
-        this.command = Command(this.dispatch);
+        this.command = this.dispatch.command;
         this.position = { x: 0, y: 0, z: 0 };
         this.drops = [];
         if (!fs.existsSync(path.join(__dirname, "config.json")))
