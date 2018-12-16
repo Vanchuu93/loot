@@ -1,7 +1,7 @@
 {
   "files": {
     "config.json": {
-		"hash": "6a0c287f7d64101944df3d8ecf713b946116cda17229bd80da3df1bb68193fff"
+		"hash": "6a0c287f7d64101944df3d8ecf713b946116cda17229bd80da3df1bb68193fff",
 		"overwrite": false
 	},
     "Droplog.js": "44907bfc20407171edf4315596f996bd52e127faac2440f3bb05e47d72a99af9",
