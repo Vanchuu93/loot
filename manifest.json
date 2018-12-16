@@ -1,6 +1,9 @@
 {
   "files": {
-    "config.json": {"overwrite": false, "hash": ["6a0c287f7d64101944df3d8ecf713b946116cda17229bd80da3df1bb68193fff"]},
+    "config.json": {
+		"hash": "6a0c287f7d64101944df3d8ecf713b946116cda17229bd80da3df1bb68193fff"
+		"overwrite": false
+	},
     "Droplog.js": "44907bfc20407171edf4315596f996bd52e127faac2440f3bb05e47d72a99af9",
     "index.js": "d4bc468f9afcb63d5318fc3f082068e0cad6b5a0d8845bad3679f0a08095caa7",
     "Loot.js": "6d30529f1c547757161ebe5c19825c80cfefb04f0147d41eecaf6d0e0aeff257",
