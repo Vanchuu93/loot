@@ -1,5 +1,5 @@
 {
-  "enabled": { "overworld": true, "instance": true },
+  "enabled": { "overworld": false, "instance": false },
   "lootRange": 150,
   "lootInterval": 300,
   "template": "default",
@@ -8,13 +8,13 @@
       "whitelist": [],
       "blacklist": []
     },
-    "essence_only": {
+    "claws": {
       "whitelist": [],
       "blacklist": []
     },
-    "motes_only": {
+    "veils_ee": {
       "whitelist": [],
-      "blacklist": []
+      "blacklist": [98513,98590,88827,88828,88829,88830,88831,88832,88833,88834,88835,88836,98599,98598]
     }
   }
 }
